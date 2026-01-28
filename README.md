@@ -16,7 +16,7 @@ This journey has sharpened my ability to explain complex concepts...
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarPiyush91&theme=omni&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=kumarPiyush91&theme=omni&hide_border=true" />
 </p>
 
 ### Frontend Developer | 10x Published Author 📚
@@ -75,7 +75,7 @@ Professional Note: While my contribution graph may look new, it is because the m
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarPiyush91&theme=omni&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kumarPiyush91&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
 ---
