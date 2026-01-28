@@ -77,7 +77,7 @@ Professional Note: While my contribution graph may look new, it is because the m
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="http://www.piyush-kumar.com" target="_blank" rel="noopener noreferrer">
+<a href="https://www.piyush-kumar.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
