@@ -14,11 +14,6 @@ This journey has sharpened my ability to explain complex concepts...
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;10x+Published+Author;Building+Scalable+Web+Apps;Clean+Code+Enthusiast" />
 </h1>
 
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=kumarPiyush91&theme=omni&hide_border=true" />
-</p>
-
 ### Frontend Developer | 10x Published Author 📚
 
 # About Me
@@ -72,10 +67,6 @@ Professional Note: While my contribution graph may look new, it is because the m
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarPiyush91&show_icons=true&theme=omni&hide_border=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarPiyush91&layout=compact&theme=omni&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarPiyush91&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
 ---
