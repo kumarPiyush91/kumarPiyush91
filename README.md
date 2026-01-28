@@ -17,7 +17,7 @@ This journey has sharpened my ability to explain complex concepts...
 ### Frontend Developer | 10x Published Author 📚
 
 # About Me
-I am a highly motivated, results-oriented Senior Frontend Developer with 5+ years of experience in building high-performance, scalable, and user-centric web applications.
+Self-taught, results-oriented Senior Frontend Developer with 5+ years of experience building scalable, high-performance, and user-centric web applications.
 
 Professional Note: While my contribution graph may look new, it is because the majority of my professional work over the past 5 years has been dedicated to private enterprise repositories and large-scale corporate projects. This profile serves as my creative playground where I share my personal projects, experiments, and open-source contributions.
 
