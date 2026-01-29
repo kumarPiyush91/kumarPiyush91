@@ -65,8 +65,9 @@ Professional Note: While my contribution graph may look new, it is because the m
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarPiyush91&show_icons=true&theme=omni&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarPiyush91&layout=compact&theme=omni&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarPiyush91&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarPiyush91&layout=compact&theme=omni&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -80,8 +81,6 @@ Professional Note: While my contribution graph may look new, it is because the m
 <a href="https://www.piyush-kumar.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-
 </p>
 
 *"Writing clean code is like writing a good book—it should be easy to read and hard to break."*
