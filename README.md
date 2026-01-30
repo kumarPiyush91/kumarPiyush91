@@ -65,7 +65,7 @@ Professional Note: While my contribution graph may look new, it is because the m
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarPiyush91&show_icons=true&theme=dark&hide_border=true" alt="kumarPiyush91's GitHub stats" />
+  <img title="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarPiyush91&theme=dark" />
 </p>
 
 
