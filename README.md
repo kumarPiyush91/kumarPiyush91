@@ -71,10 +71,10 @@ Professional Note: While my contribution graph may look new, it is because the m
     alt="GitHub Streak Stats" 
   />
   <br><br>
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarPiyush91&layout=compact&theme=omni&hide_border=true&langs_count=8" 
-    alt="Top Languages" 
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kumarPiyush91&layout=compact&theme=omni&hide_border=true&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 ---
